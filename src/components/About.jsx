@@ -20,7 +20,7 @@ const About = () => {
         
         
         <img className='w-full max-h-[900px] object-cover  ' src='https://i.pinimg.com/1200x/81/10/1e/81101e9bf1b1a8bf54a68ad94c9871ee.jpg'  alt='/' />
-        <p className='text-white text-xl '>At Nexus Motor Vehicle Store, we are passionate about all things related to motor vehicles. Our website is designed to be a one-stop destination for automobile enthusiasts, buyers, and anyone interested in the automotive world. Whether you're a seasoned car enthusiast or a first-time car buyer, we're here to provide you with valuable information and resources to make informed decisions about motor vehicles.
+        <p className='text-white text-xl '>At Nexus Vehicle Store, we are passionate about all things related to motor vehicles. Our website is designed to be a one-stop destination for automobile enthusiasts, buyers, and anyone interested in the automotive world. Whether you're a seasoned car enthusiast or a first-time car buyer, we're here to provide you with valuable information and resources to make informed decisions about motor vehicles.
 <p>
 Our Mission:
 Our mission is to empower individuals with the knowledge and tools they need to navigate the complex world of motor vehicles confidently. We aim to provide comprehensive and up-to-date information on various makes and models, automotive technologies, safety features, maintenance tips, and much more. Through our content, we strive to foster a community that shares a common love for cars and motor vehicles.
