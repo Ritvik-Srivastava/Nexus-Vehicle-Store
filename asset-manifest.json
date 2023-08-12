@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Nexus-Vehicle-Store/static/css/main.d088241f.css",
+    "main.js": "/Nexus-Vehicle-Store/static/js/main.346fc5f8.js",
+    "index.html": "/Nexus-Vehicle-Store/index.html",
+    "main.d088241f.css.map": "/Nexus-Vehicle-Store/static/css/main.d088241f.css.map",
+    "main.346fc5f8.js.map": "/Nexus-Vehicle-Store/static/js/main.346fc5f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d088241f.css",
+    "static/js/main.346fc5f8.js"
+  ]
+}
